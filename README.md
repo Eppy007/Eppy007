@@ -42,6 +42,11 @@ I build practical projects that mirror real-world SOC and security operations.
 - Detection and Incident Response  
 - Automating Cybersecurity Tasks with Python  
 
+- **Python Programming Certification** — MICROMANNA COMPUTER COLLEGE (In-Person)  
+  *Core Python, data structures, scripting, and problem-solving*
+
+- **Web Development Certification** — MICROMANNA COMPUTER COLLEGE (In-Person)  
+  *HTML, CSS, and basic JavaScript for building responsive and interactive web pages*
 ---
 
 ## 📺 Learning & References
