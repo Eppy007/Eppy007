@@ -1,49 +1,62 @@
-<h1>Hi, I'm Epaphras! </h1>
+# Hi, I'm Epaphras 👋
 
+🎯 **Cybersecurity Analyst | Python Developer | SOC & Blue Team Enthusiast**
 
+I’m a cybersecurity-focused Computer Engineering graduate with hands-on experience in **threat detection, Linux, SQL, Python automation**, and **network security**.  
+I build practical projects that mirror real-world SOC and security operations.
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+---
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
- 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-    
-<h2>📄 Certifications</h2>
+## 👨‍💻 Cybersecurity & Technical Projects
 
- [Foundations of Cybersecurity ](https://coursera.org/share/5e0bf5f8aa7f78389f85aa489dc0d993).
- [Play it safe: Manage Security Risk ](https://coursera.org/share/2475f5d3b0e89179a43af2b47849f7f3).
- [Connect and Protect:Networks and Network Security](https://coursera.org/share/10313aef6d746e49243724e9a4af6911) 
-  
-<h2>📺 Popular YouTube Videos</h2>
+### 🔐 Security Labs & Hands-On Practice
+- **Active Directory Home Lab**  
+  Built and managed a Windows AD environment to simulate user management, authentication, and attack scenarios.
 
- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+### 🐍 Python & Automation
+- **Package Delivery Application**  
+  Implemented data structures and path-finding algorithms to optimize delivery routes and system efficiency.  
+  *Focus: Algorithms, optimization, and clean Python design.*
 
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 🧠 Technical Skills
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- **Security:** Threat Detection, Incident Response, Risk Management  
+- **Tools:** Linux, SQL, Git, SIEM fundamentals  
+- **Programming:** Python (automation & scripting)  
+- **Networking:** TCP/IP, DNS, Firewalls, Network Security Concepts  
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📄 Certifications
 
-Here are some ideas to get you started:
+- **Google Cybersecurity Professional Certificate**  
+  *(9-course program covering Linux, SQL, SIEM, detection & response, and Python automation)*  
+  🔗 https://coursera.org/share/58910a712ae59ea6afae44eb573fea49
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Key Coursework Includes:**
+- Foundations of Cybersecurity  
+- Tools of the Trade: Linux & SQL  
+- Assets, Threats, and Vulnerabilities  
+- Detection and Incident Response  
+- Automating Cybersecurity Tasks with Python  
+
+---
+
+## 📺 Learning & References
+
+- Active Directory Home Lab Walkthrough  
+  🔗 https://www.youtube.com/watch?v=a83ASGn_V_s
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 **LinkedIn:** https://linkedin.com/in/YOUR-LINK-HERE  
+- 🐦 **Twitter/X:** https://twitter.com/Itz_Eppy  
+- 📧 **Email:** epaphrasbarnabas@gmail.com
+
+---
+
+⭐ *I’m actively building projects and open to junior cybersecurity, SOC, and Python-related opportunities.*
